@@ -142,10 +142,6 @@ class Pasien extends Model {
 - Prepared statements untuk SQL injection prevention
 - Sanitasi input
 
-## Screenshots
-
-[Screenshot aplikasi akan ditambahkan di sini]
-
 ## Kontribusi
 
 1. Fork repository
@@ -160,6 +156,6 @@ class Pasien extends Model {
 
 ## Author
 
-- Nama: [Nama Anda]
-- Email: [Email Anda]
-- GitHub: [@username] 
+- Nama: [Ardi Budi]
+- Email: [Kadekardii3507@gmail.com]
+- GitHub: [brokenbtch] 
